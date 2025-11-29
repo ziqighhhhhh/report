@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>按国家视角查看干电池出口（动态） -  - 干电池出口分析报告</title>
+        <link>//localhost:59100/country/</link>
+        <description>按国家视角查看干电池出口（动态） -  - 干电池出口分析报告</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="//localhost:59100/country/" rel="self" type="application/rss+xml" /></channel>
+</rss>

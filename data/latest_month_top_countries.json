@@ -1,0 +1,62 @@
+[
+  {
+    "continent": "非非洲国家",
+    "country": "美国",
+    "total_qty": 2391674635,
+    "total_value_usd": 225116837
+  },
+  {
+    "continent": "非非洲国家",
+    "country": "德国",
+    "total_qty": 1712859166,
+    "total_value_usd": 116929431
+  },
+  {
+    "continent": "非非洲国家",
+    "country": "日本",
+    "total_qty": 752722441,
+    "total_value_usd": 67321246
+  },
+  {
+    "continent": "非非洲国家",
+    "country": "波兰",
+    "total_qty": 852333296,
+    "total_value_usd": 62519486
+  },
+  {
+    "continent": "非非洲国家",
+    "country": "俄罗斯",
+    "total_qty": 856926840,
+    "total_value_usd": 62340066
+  },
+  {
+    "continent": "非洲国家",
+    "country": "尼日利亚",
+    "total_qty": 1926716885,
+    "total_value_usd": 60475641
+  },
+  {
+    "continent": "非非洲国家",
+    "country": "中国香港",
+    "total_qty": 831479322,
+    "total_value_usd": 59587273
+  },
+  {
+    "continent": "非非洲国家",
+    "country": "荷兰",
+    "total_qty": 858136466,
+    "total_value_usd": 58350437
+  },
+  {
+    "continent": "非非洲国家",
+    "country": "比利时",
+    "total_qty": 528956926,
+    "total_value_usd": 47283947
+  },
+  {
+    "continent": "非非洲国家",
+    "country": "韩国",
+    "total_qty": 506225608,
+    "total_value_usd": 46237160
+  }
+]
