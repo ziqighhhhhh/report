@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>干电池海关数据报告</title>
+        <link>https://ziqighhhhhh.github.io/report/</link>
+        <description>基于海关数据的干电池出口与市场前景分析动态报告</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language>
+            <atom:link href="https://ziqighhhhhh.github.io/report/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
